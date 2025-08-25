@@ -1,5 +1,5 @@
 Time stamp;SP_Idle_Mode;SP_Speed_Fan;SP_Temp_Interior;PV_Temp_Interior;PV_Speed_Fan;PV_Collective_Alarm;SP_Bedewing_Protection;,,,,,,,,,
-;;%;°C;°C;%;;;,,,,,,,,,
+;;%;Â°C;Â°C;%;;;,,,,,,,,,
 05.02.25 15:40;-;-;-;-;-;-;-;,,,,,,,,,
 05.02.25 15:40;1,0;100,0;-6,0;(-5,0) -0,6 (-7,0);100,0;0,0;0,0;
 05.02.25 15:41;0,0;100,0;-6,0;(-5,0) -0,2 (-7,0);100,0;0,0;0,0;
